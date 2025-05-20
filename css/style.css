@@ -82,6 +82,10 @@ body {
     color: #F9FAF8;
 }
 
+.mid-section {
+    padding-bottom: 150px;
+}
+
 .mid-header {
     margin-top: 48px;
     text-align: center;
@@ -118,4 +122,27 @@ body {
     border: 4px solid #3882F6;
     border-radius: 10%;
     margin-bottom: 8px;
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    padding: 75px 400px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+.byline {
+    align-self: flex-end;
+    font-size: 20px;
+    font-weight: bold;
 }
