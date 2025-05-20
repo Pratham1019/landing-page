@@ -81,3 +81,41 @@ body {
     align-items: center;
     color: #F9FAF8;
 }
+
+.mid-header {
+    margin-top: 48px;
+    text-align: center;
+}
+
+.mid-header>h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+}
+
+.boxes-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+    margin-top: 48px;
+}
+
+.info-box {
+    width: 150px;
+    text-align: center;
+    color: #56606D;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.square {
+    height: 150px;
+    width: 150px;
+    border: 4px solid #3882F6;
+    border-radius: 10%;
+    margin-bottom: 8px;
+}
