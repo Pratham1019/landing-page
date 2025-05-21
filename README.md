@@ -1,6 +1,6 @@
 # Landing Page
 
-A simple responsive landing page built using **HTML** and **CSS** (Flexbox) as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
+A simple landing page built using **HTML** and **CSS** (Flexbox) as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
 ## 🛠️ Tech Stack
 
@@ -10,7 +10,7 @@ A simple responsive landing page built using **HTML** and **CSS** (Flexbox) as p
 
 ## 📸 Preview
 
-![Screenshot](assets/website_ss.png)  
+![Screenshot](assets/website_ss.png)
 
 ## 👨‍💻 Author
 
